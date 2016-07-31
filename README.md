@@ -20,8 +20,8 @@
 
 ## 应用截图
 
-  ![] (./resource/Screenshot_1.jpeg)
-  ![] (./resource/Screenshot_2.jpeg)
+  ![] (./resource/Screenshot_1.jpeg =320x480)
+  ![] (./resource/Screenshot_2.jpeg =320x480)
 
 ## 使用demo
 
