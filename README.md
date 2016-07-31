@@ -20,12 +20,13 @@
 
 ## 应用截图
 
-![](https://github.com/QDPeng/RotateListView/tree/master/resource/Screenshot_1.jpeg)
-![](https://github.com/QDPeng/RotateListView/tree/master/resource/Screenshot_2.jpeg)
+  ![] (./resource/Screenshot_1.jpeg)
+  ![] (./resource/Screenshot_2.jpeg)
 
 ## 使用demo
 
-```xml
+```
+    xml
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
