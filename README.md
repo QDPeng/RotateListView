@@ -20,8 +20,8 @@
 
 ## 应用截图
 
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/Screenshot_1.jpeg)
-![](https://github.com/wangdan/AisenWeibo/raw/master/resource/Screenshot_2.jpeg)
+![](https://github.com/QDPeng/RotateListView/tree/master/resource/Screenshot_1.jpeg)
+![](https://github.com/QDPeng/RotateListView/tree/master/resource/Screenshot_2.jpeg)
 
 ## 使用demo
 
