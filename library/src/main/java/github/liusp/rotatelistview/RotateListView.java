@@ -25,8 +25,9 @@ import java.util.ArrayList;
 /**
  * 可旋转的环形listview
  *
- * @author liusp
+ * @author QDPeng
  * @since 2016/07/08
+ * @email liusp008@gmail.com
  */
 public class RotateListView extends ViewGroup {
     // Event listeners
