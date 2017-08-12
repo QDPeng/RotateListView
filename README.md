@@ -20,10 +20,7 @@
 
 ## 应用截图
 
-  ![image](https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_1.png)
-  
-  
-  ![image](https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_2.png)
+  ![image](https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_1.png) ![image](https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_2.png)
 
 ## 使用demo
 
