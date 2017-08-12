@@ -20,9 +20,9 @@
 
 ## 应用截图
 
-  ![] (https://github.com/QDPeng/RotateListView/resource/Screenshot_1.png)
+  ![] (https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_1.png)
   
-  ![] (https://github.com/QDPeng/RotateListView/resource/Screenshot_2.png)
+  ![] (https://github.com/QDPeng/RotateListView/blob/master/resource/Screenshot_1.png)
 
 ## 使用demo
 
