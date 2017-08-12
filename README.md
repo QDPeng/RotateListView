@@ -20,8 +20,8 @@
 
 ## 应用截图
 
-  ![] (./resource/Screenshot_1.png)
-  ![] (./resource/Screenshot_2.png)
+  ![] (resource/Screenshot_1.png)
+  ![] (resource/Screenshot_2.png)
 
 ## 使用demo
 
